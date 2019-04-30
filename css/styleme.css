@@ -1,0 +1,22 @@
+body
+{
+    background-image: url("../images/snowbg.gif");
+    color: azure;
+}
+.title
+{
+    font-family: "Arial Black";
+
+}
+
+.title h1
+{
+    color:yellowgreen;
+}
+
+.section h2
+{
+    font-family: "Times New Roman";
+    color:yellow;
+}
+
