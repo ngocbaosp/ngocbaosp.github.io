@@ -3,21 +3,28 @@ body
     background-image: url("../images/snowbg.gif");
     color: azure;
 }
-.title
-{
-    font-family: "Arial Black";
-
-}
-
 .emp
 {
     font-family: Georgia;
     color:chocolate;
 }
 
+.title
+{
+    font-family: "Arial Black";
+
+}
+
 .title h1
 {
     color:yellowgreen;
+}
+
+
+.title p:first-letter
+{
+    text-transform: uppercase;
+    font-size:xx-large;
 }
 
 .section h2
@@ -26,11 +33,18 @@ body
     color:yellow;
 }
 
+.reverseOrder { display: flex; flex-direction: column-reverse; }
+
+.dt
+{
+    color:coral;
+}
+
 /* unvisited link */
-a:link { color: #FF0000; }
+a:link { color: #FF0000;text-decoration:none; }
 /* visited link */
 a:visited { color: #00FF00; }
 /* mouse over link */
-a:hover { color: #FF00FF; }
+a:hover { color: #FF00FF;text-decoration:underline; }
 /* click on a link */
 a:active { color: #0000FF; }
