@@ -18,6 +18,7 @@ a:link {
     text-align: left;
     font-size: 18pt;
     letter-spacing: 0.25em;
+    text-decoration: underline;
 
 }
 
@@ -29,7 +30,6 @@ a:link {
 .mainHeading {
     text-align: center;
     font-size: 22pt;
-    text-decoration: underline;
 
 
 }
