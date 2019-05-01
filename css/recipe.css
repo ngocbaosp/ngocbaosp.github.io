@@ -21,8 +21,7 @@ a:link {
 
 }
 
-.headings span
-{
+.headings span {
     background-color: #F0F0F0;
 
 }
@@ -59,9 +58,15 @@ blockquote {
 
 .copyright {
     font-family: monospace;
-    width: 30%;
     text-align: right;
+    padding: 20px 10px;
 }
+
+.right-align {
+    position: absolute;
+    right: 10px;
+}
+
 ul {
     list-style-image: url("../images/pie_icon.gif");
 }
