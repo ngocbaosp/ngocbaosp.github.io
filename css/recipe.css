@@ -30,6 +30,7 @@ a:link {
 .mainHeading {
     text-align: center;
     font-size: 22pt;
+    text-decoration: underline;
 
 
 }
