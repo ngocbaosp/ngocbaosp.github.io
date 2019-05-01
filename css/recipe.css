@@ -42,3 +42,19 @@ abbr
 {
    text-decoration:underline;
 }
+
+blockquote
+{
+  background-color: lightgoldenrodyellow;
+    font-style: italic;
+}
+
+.emp {
+    font-weight: bold;
+}
+.copyright
+{
+    font-family: monospace;
+    width: 30%;
+    text-align: right;
+}
