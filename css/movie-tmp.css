@@ -1,10 +1,10 @@
 body {
+    background-color: white;
     background-image: url("../images/background.png");
     color: #404040;
     font-size: 8pt;
     font-family: Verdana, Tahoma, sans-serif;
-    margin:0pt;
-    padding:0pt;
+    margin-top: auto;
 
 }
 .banner
@@ -32,8 +32,53 @@ body {
     border: 4pt solid gray;
     border-radius: 25px;
     overflow:hidden;
+    padding: 0pt;
+}
+.overall
+{
+    width: 550px;
+    height: 83px;
+    margin-top: 0px;
+    background-image: url("../images/rbg.png");
+    font-size: 48pt;
+    color: red;
+    font-weight: bold;
 
 }
+.overall img
+{
+    vertical-align: bottom;
+
+}
+
+.review-section
+{
+    column-count: 2;
+    column-gap: 2%;
+    width: 100%;
+
+}
+
+.review-column
+{
+    display: inline-block;
+    font-size: 10pt;
+    color: #404040;
+    margin-left: 5pt;
+    margin-right: 5pt;
+
+    margin-bottom: 20pt;
+
+}
+.quote
+{
+    background-color: #E8DC9B;
+    border: 2pt solid gray;
+    border-radius: 10px;
+    padding: 10pt;
+}
+
+
 
 .overview
 {
@@ -54,72 +99,6 @@ body {
     margin-top: 10pt;
     font-size: 10pt;
     font-weight: bold;
-}
-
-.overall
-{
-    width: 550px;
-
-
-}
-.rating
-{
-    height: 83px;
-    margin-top: 0px;
-    background-image: url("../images/rbg.png");
-    font-size: 48pt;
-    color: red;
-    font-weight: bold;
-}
-.overall img
-{
-    vertical-align: bottom;
-
-}
-
-
-.review-section
-{
-    column-count: 2;
-    column-gap: 2%;
-    width: 100%;
-
-}
-
-.review-column
-{
-    display: inline-block;
-    font-size: 8pt;
-    color: #404040;
-    margin-left: 5pt;
-    margin-right: 5pt;
-    margin-bottom: 20pt;
-
-}
-
-.quote
-{
-    background-color: #E8DC9B;
-    border: 2pt solid gray;
-    border-radius: 10px;
-    padding: 10pt;
-    font-weight: bold;
-
-}
-
-.reviewer
-{
-    overflow: hidden;
-}
-.reviewer img
-{
-    float: left;
-    margin-left: 5pt;
-}
-
-.reviewer emp
-{
-    font-style: italic;
 }
 
 
