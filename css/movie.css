@@ -8,7 +8,7 @@ body {
 }
 
 .banner {
-    height: 50pt;
+    height: 50px;
     background-image: url("../images/bannerbg.png");
 }
 
@@ -30,9 +30,10 @@ body {
 .body-content {
     width: 800px;
     margin: auto;
-    border: 4pt solid gray;
+    border: 4px solid gray;
     border-radius: 20px;
     overflow: hidden;
+
 
 }
 
@@ -121,7 +122,12 @@ body {
     clear: both;
     background-color: #A2B964;
     text-align: center;
+
+}
+
+.paging p {
     padding: 5px;
+    margin: 0;
 }
 
 .validator {
