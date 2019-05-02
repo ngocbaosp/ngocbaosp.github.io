@@ -24,6 +24,7 @@ body {
     text-align: center;
     margin: auto;
     text-shadow: 3px 3px #999999;
+    padding: 20px;
 }
 
 .body-content {
