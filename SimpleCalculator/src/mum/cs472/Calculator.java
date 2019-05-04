@@ -21,31 +21,32 @@ public class Calculator extends HttpServlet {
 
     }
 
+    private String myCompute(String a, String b, String op)
+    {
+        if(a.equals("") || b.equals(""))
+            return "";
+        float x = Float.parseFloat(a);
+        float y = Float.parseFloat(b);
+        float z=0;
+        if(op.equals("+"))
+            z = x+y;
+        else
+            z = x*y;
+
+        return String.valueOf(z);
+
+    }
+
     private void myComputeAndStoreSession(HttpServletRequest request) {
         ArrayList<String> vals = new ArrayList<>();
 
         vals.add(request.getParameter("p1"));
         vals.add(request.getParameter("p2"));
-        if (vals.get(0) != "" && vals.get(1) != "") {
-            float a = Float.parseFloat(vals.get(0));
-            float b = Float.parseFloat(vals.get(1));
-            float sum = a + b;
-            vals.add(String.valueOf(sum));
-        } else {
-            vals.add("");
-        }
+        vals.add(myCompute(vals.get(0),vals.get(1),"+"));
 
         vals.add(request.getParameter("p3"));
         vals.add(request.getParameter("p4"));
-        if (vals.get(3) != "" && vals.get(4) != "") {
-            float a = Float.parseFloat(vals.get(3));
-            float b = Float.parseFloat(vals.get(4));
-            float sum = a * b;
-            vals.add(String.valueOf(sum));
-        } else {
-            vals.add("");
-        }
-
+        vals.add(myCompute(vals.get(3),vals.get(4),"*"));
 
         HttpSession session = request.getSession();
 
