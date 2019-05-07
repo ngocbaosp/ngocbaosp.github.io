@@ -16,8 +16,9 @@
 <body>
 <form action="QuizServlet" method="post">
     <div class="form-group">
+        <h1> The Number Quiz</h1>
         <label class="field-label">Your age: </label>
-        <input type="text" name="age" value="" placeholder="enter the number between 4 to 100" size="40" maxlength="3"/>
+        <input type="text" name="age" value="" placeholder="[4 to 100]" size="10" maxlength="3"/>
 
         <%
             UserSession userSession = (UserSession) request.getSession().getAttribute("userSession");

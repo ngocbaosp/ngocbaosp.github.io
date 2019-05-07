@@ -70,7 +70,7 @@ public class QuizServlet extends HttpServlet {
 
             UserAnswer userAnswer = userSession.getUserAnswer();
 
-            if (userAnswer.isNextQuestion()==false) {
+            if (userAnswer.isNextQuestion() == false) {
                 //store user's answer
 
                 String ans = request.getParameter("ans");
