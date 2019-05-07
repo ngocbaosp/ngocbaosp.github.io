@@ -29,7 +29,7 @@
     <p>
         Your current score is <%=userAnswer.getScore()%>
     </p>
-    <h4> Question No: <%=(userAnswer.getCurrentQuestionNo() + 1)%>
+    <h4> Question No: ${userSession.userAnswer.currentQuestionNo+1}
     </h4>
     <%=userSession.getQuestionBank().getQuestion(userAnswer.getCurrentQuestionNo()).display()%>
     <p>
@@ -57,6 +57,7 @@
 
         <input type='submit' value='Submit'/>
     </div>
+
 </form>
 </body>
 </html>
