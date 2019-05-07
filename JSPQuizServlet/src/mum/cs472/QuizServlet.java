@@ -111,6 +111,7 @@ public class QuizServlet extends HttpServlet {
 
     }
 
+    /*
     private void ShowAnswerInDetail(PrintWriter out, UserAnswer userAnswer) {
         out.print("<h2> Please review your answer in details below:</h2>");
 
@@ -129,6 +130,8 @@ public class QuizServlet extends HttpServlet {
 
         }
     }
+
+     */
 
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 

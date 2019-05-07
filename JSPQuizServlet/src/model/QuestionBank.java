@@ -19,9 +19,11 @@ public class QuestionBank {
         String des[] ={"pi","fibonaci","squares","prime","power of 2"};
 
         ArrayList<Integer> scores = new ArrayList<>();
+        //scores.add(20);
         scores.add(10);
         scores.add(5);
         scores.add(2);
+
 
 
         for (int i = 0; i < question.length; i++)
