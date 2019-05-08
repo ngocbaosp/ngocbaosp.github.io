@@ -7,15 +7,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="94ab820b-360d-4545-a04e-1933323f34ea" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../SimpleCustomTagDemo/.idea/artifacts/SimpleCustomTagDemo_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SimpleCustomTagDemo/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SimpleCustomTagDemo/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SimpleCustomTagDemo/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SimpleCustomTagDemo/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SimpleCustomTagDemo/src/mum/cs472/Head.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SimpleCustomTagDemo/web/WEB-INF/tlds/TldDemo.tld" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SimpleCustomTagDemo/web/WEB-INF/web.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleCustomTagDemo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SimpleCustomTagDemo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -384,7 +378,7 @@
       <option name="presentableId" value="Default" />
       <updated>1557248613916</updated>
       <workItem from="1557248617914" duration="7359000" />
-      <workItem from="1557284222430" duration="492000" />
+      <workItem from="1557284222430" duration="609000" />
     </task>
     <task id="LOCAL-00001" summary="Beer Advice Taglibs">
       <created>1557282553820</created>
@@ -401,6 +395,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1440" y="0" width="1366" height="768" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.31268883" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
