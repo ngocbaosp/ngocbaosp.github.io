@@ -7,28 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1df6fc51-f841-4fcb-b449-00d751dda5c6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../JSPBeerAdvice/.idea/artifacts/JSPBeerAdvice_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JSPBeerAdvice/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JSPBeerAdvice/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JSPBeerAdvice/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JSPBeerAdvice/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JSPBeerAdvice/src/model/BeerExpert.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JSPBeerAdvice/src/mum/cs472/BeerSelect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JSPBeerAdvice/web/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JSPBeerAdvice/web/result.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JSPBeerAdvice/web/resultCustomTag.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/JSPDemo_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JSPDemo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mum/cs472/JSPIntroServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/PostMessage.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/hello.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JSPQuizServlet/src/model/QuestionBank.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JSPQuizServlet/src/model/QuestionBank.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JSPQuizServlet/src/mum/cs472/QuizServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JSPQuizServlet/src/mum/cs472/QuizServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -327,12 +306,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1557256499824</updated>
-      <workItem from="1557256503409" duration="1773000" />
+      <workItem from="1557256503409" duration="1774000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1773000" />
+    <option name="totallyTimeSpent" value="1774000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -345,14 +324,15 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" />
       <window_info id="Image Layers" />
       <window_info id="Capture Tool" />
       <window_info id="UI Designer" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info id="Web" sideWeight="0.4362657" side_tool="true" visible="true" weight="0.24964234" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.5637343" visible="true" weight="0.24964234" />
+      <window_info id="Web" sideWeight="0.4361446" side_tool="true" visible="true" weight="0.24964234" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.5638554" visible="true" weight="0.24964234" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Application Servers" weight="0.32891566" />
       <window_info anchor="bottom" id="Terminal" weight="0.32891566" />
@@ -364,7 +344,7 @@
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32891566" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32891566" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />

@@ -13,12 +13,10 @@
     <title>Title</title>
 </head>
 <body>
+<h1 align=”center”>Beer Recommendations JSP</h1>
+<c:forEach var="style" items="${styles}">
+        <p>try: ${style}</p>
 
-<c:forEach var="student" items="${students}">
-    <tr>
-        <td>${student.name}</td>
-        <td>${student.age}</td>
-    </tr>
 </c:forEach>
 
 </body>
