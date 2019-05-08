@@ -2,9 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee497c55-0d7d-47eb-ad3f-4b6a7ad20e67" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/SimpleCustomTagDemo/.idea/artifacts/SimpleCustomTagDemo_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimpleCustomTagDemo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimpleCustomTagDemo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimpleCustomTagDemo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimpleCustomTagDemo/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimpleCustomTagDemo/src/mum/cs472/Head.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimpleCustomTagDemo/web/WEB-INF/tlds/TldDemo.tld" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimpleCustomTagDemo/web/WEB-INF/web.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JSPBeerAdvice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JSPBeerAdvice/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -39,8 +46,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="146">
-              <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+            <state relative-caret-position="720">
+              <caret line="48" column="9" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -84,6 +91,13 @@
         <option value="$PROJECT_DIR$/Homework/Hw4/nerdluv.css" />
         <option value="$PROJECT_DIR$/Homework/Hw4/signup.html" />
         <option value="$PROJECT_DIR$/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/SimpleCustomTagDemo/SimpleCustomTagDemo.iml" />
       </list>
     </option>
   </component>
@@ -175,21 +189,7 @@
       <workItem from="1557113224261" duration="556000" />
       <workItem from="1557168756880" duration="727000" />
       <workItem from="1557202624148" duration="154000" />
-      <workItem from="1557263673761" duration="1142000" />
-    </task>
-    <task id="LOCAL-00001" summary="Init code">
-      <created>1556637727347</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1556637727347</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Init code">
-      <created>1556653233108</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1556653233108</updated>
+      <workItem from="1557263673761" duration="1951000" />
     </task>
     <task id="LOCAL-00003" summary="Lab 1">
       <created>1556653292794</created>
@@ -520,11 +520,25 @@
       <option name="project" value="LOCAL" />
       <updated>1557263861911</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="JSP Introduction Quiz">
+      <created>1557283398578</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1557283398579</updated>
+    </task>
+    <task id="LOCAL-00051" summary="JSP Introduction Quiz">
+      <created>1557283556659</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1557283556659</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58372000" />
+    <option name="totallyTimeSpent" value="59181000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1440" y="0" width="1366" height="768" extended-state="0" />
@@ -777,8 +791,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="146">
-          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+        <state relative-caret-position="720">
+          <caret line="48" column="9" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
         </state>
       </provider>
     </entry>
