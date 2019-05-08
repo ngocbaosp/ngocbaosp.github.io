@@ -7,13 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="94ab820b-360d-4545-a04e-1933323f34ea" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/model/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mum/cs472/BeerSelect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mum/cs472/BeerSelect.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/result.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/result.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../SimpleCustomTagDemo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SimpleCustomTagDemo/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SimpleCustomTagDemo/src/mum/cs472/Head.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SimpleCustomTagDemo/src/mum/cs472/Head.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -122,8 +117,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4530">
-              <caret line="302" column="70" selection-start-line="302" selection-start-column="70" selection-end-line="302" selection-end-column="70" />
+            <state relative-caret-position="4455">
+              <caret line="297" column="70" selection-start-line="297" selection-start-column="70" selection-end-line="297" selection-end-column="70" />
             </state>
           </provider>
         </entry>
@@ -393,7 +388,7 @@
       <option name="presentableId" value="Default" />
       <updated>1557248613916</updated>
       <workItem from="1557248617914" duration="7359000" />
-      <workItem from="1557284222430" duration="2343000" />
+      <workItem from="1557284222430" duration="2658000" />
     </task>
     <task id="LOCAL-00001" summary="Beer Advice Taglibs">
       <created>1557282553820</created>
@@ -402,11 +397,18 @@
       <option name="project" value="LOCAL" />
       <updated>1557282553820</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Beer Advice Taglibs">
+      <created>1557290621231</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1557290621231</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9702000" />
+    <option name="totallyTimeSpent" value="10017000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1440" y="0" width="1366" height="768" extended-state="6" />
@@ -422,7 +424,7 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.40544412" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.40544412" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3581662" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -522,8 +524,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4530">
-          <caret line="302" column="70" selection-start-line="302" selection-start-column="70" selection-end-line="302" selection-end-column="70" />
+        <state relative-caret-position="4455">
+          <caret line="297" column="70" selection-start-line="297" selection-start-column="70" selection-end-line="297" selection-end-column="70" />
         </state>
       </provider>
     </entry>
