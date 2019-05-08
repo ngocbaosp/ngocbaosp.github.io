@@ -2,16 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee497c55-0d7d-47eb-ad3f-4b6a7ad20e67" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/SimpleCustomTagDemo/.idea/artifacts/SimpleCustomTagDemo_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SimpleCustomTagDemo/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SimpleCustomTagDemo/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SimpleCustomTagDemo/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SimpleCustomTagDemo/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SimpleCustomTagDemo/src/mum/cs472/Head.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SimpleCustomTagDemo/web/WEB-INF/tlds/TldDemo.tld" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SimpleCustomTagDemo/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JSPBeerAdvice/src/model/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JSPBeerAdvice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JSPBeerAdvice/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSPBeerAdvice/src/mum/cs472/BeerSelect.java" beforeDir="false" afterPath="$PROJECT_DIR$/JSPBeerAdvice/src/mum/cs472/BeerSelect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSPBeerAdvice/web/result.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/JSPBeerAdvice/web/result.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleCustomTagDemo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleCustomTagDemo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleCustomTagDemo/src/mum/cs472/Head.java" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleCustomTagDemo/src/mum/cs472/Head.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -46,8 +43,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="720">
-              <caret line="48" column="9" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
+            <state relative-caret-position="117">
+              <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
             </state>
           </provider>
         </entry>
@@ -189,14 +186,7 @@
       <workItem from="1557113224261" duration="556000" />
       <workItem from="1557168756880" duration="727000" />
       <workItem from="1557202624148" duration="154000" />
-      <workItem from="1557263673761" duration="1951000" />
-    </task>
-    <task id="LOCAL-00003" summary="Lab 1">
-      <created>1556653292794</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1556653292794</updated>
+      <workItem from="1557263673761" duration="2645000" />
     </task>
     <task id="LOCAL-00004" summary="Lab 1">
       <created>1556653406360</created>
@@ -534,11 +524,18 @@
       <option name="project" value="LOCAL" />
       <updated>1557283556659</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="SimpleCustomTagDemo">
+      <created>1557284984349</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1557284984349</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="59181000" />
+    <option name="totallyTimeSpent" value="59875000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1440" y="0" width="1366" height="768" extended-state="0" />
@@ -627,7 +624,8 @@
     <MESSAGE value="QuizServlet Lab" />
     <MESSAGE value="QuizServlet MVC Lab" />
     <MESSAGE value="JSP Introduction Quiz" />
-    <option name="LAST_COMMIT_MESSAGE" value="JSP Introduction Quiz" />
+    <MESSAGE value="SimpleCustomTagDemo" />
+    <option name="LAST_COMMIT_MESSAGE" value="SimpleCustomTagDemo" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/styleme.css" />
@@ -791,8 +789,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="48" column="9" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
+        <state relative-caret-position="117">
+          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
         </state>
       </provider>
     </entry>
