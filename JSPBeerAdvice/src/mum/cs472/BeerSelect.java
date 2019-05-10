@@ -25,7 +25,7 @@ public class BeerSelect extends HttpServlet {
 
         request.setAttribute("styles", result);
 
-
+/*
         Student[] table = new Student[]
                 {
                         new Student("bob", 23),
@@ -37,8 +37,11 @@ public class BeerSelect extends HttpServlet {
 
 
         request.setAttribute("students", table);
+*/
+        //ShowPage(request, response, "resultCustomTag.jsp");
 
-        ShowPage(request, response, "resultCustomTag.jsp");
+        ShowPage(request, response, "midTerm.jsp");
+
         //ShowPage(request, response, "result.jsp");
 
     }
