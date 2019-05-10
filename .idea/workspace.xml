@@ -182,21 +182,7 @@
       <workItem from="1557202624148" duration="154000" />
       <workItem from="1557263673761" duration="2928000" />
       <workItem from="1557327208131" duration="671000" />
-      <workItem from="1557515085610" duration="571000" />
-    </task>
-    <task id="LOCAL-00008" summary="Lab 1">
-      <created>1556656137542</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1556656137542</updated>
-    </task>
-    <task id="LOCAL-00009" summary="Lab 1">
-      <created>1556656601427</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1556656601427</updated>
+      <workItem from="1557515085610" duration="669000" />
     </task>
     <task id="LOCAL-00010" summary="Lab 1: reverse Order list">
       <created>1556659405581</created>
@@ -527,11 +513,25 @@
       <option name="project" value="LOCAL" />
       <updated>1557515358718</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="Buggy Javascript">
+      <created>1557515670551</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1557515670551</updated>
+    </task>
+    <task id="LOCAL-00058" summary="Buggy Javascript">
+      <created>1557515709698</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1557515709698</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="61400000" />
+    <option name="totallyTimeSpent" value="61498000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
