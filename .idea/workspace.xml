@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee497c55-0d7d-47eb-ad3f-4b6a7ad20e67" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/Exercises/Exercises6.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/js/exercise6.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/documents/Javascript Exercises.docx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScriptLabs/js/exercise6.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScriptLabs/js/exercise6.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -41,8 +38,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="70" selection-start-line="21" selection-start-column="70" selection-end-line="21" selection-end-column="70" />
+            <state relative-caret-position="232">
+              <caret line="21" column="168" selection-start-line="21" selection-start-column="137" selection-end-line="21" selection-end-column="168" />
             </state>
           </provider>
         </entry>
@@ -191,21 +188,7 @@
       <workItem from="1557202624148" duration="154000" />
       <workItem from="1557263673761" duration="2928000" />
       <workItem from="1557327208131" duration="671000" />
-      <workItem from="1557515085610" duration="2328000" />
-    </task>
-    <task id="LOCAL-00013" summary="Lab 1: reverse Order list">
-      <created>1556668283384</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1556668283384</updated>
-    </task>
-    <task id="LOCAL-00014" summary="Lab 1: reverse Order list">
-      <created>1556669151041</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1556669151041</updated>
+      <workItem from="1557515085610" duration="2815000" />
     </task>
     <task id="LOCAL-00015" summary="homework 1">
       <created>1556669347996</created>
@@ -536,11 +519,25 @@
       <option name="project" value="LOCAL" />
       <updated>1557613246678</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="Decorate My Text">
+      <created>1557628039637</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1557628039637</updated>
+    </task>
+    <task id="LOCAL-00063" summary="Javascript Exercises - Lesson 6">
+      <created>1557628087333</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1557628087333</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="63157000" />
+    <option name="totallyTimeSpent" value="63644000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1440" y="0" width="1366" height="768" extended-state="0" />
@@ -634,7 +631,8 @@
     <MESSAGE value="Buggy Javascript" />
     <MESSAGE value="Tip Calculator Exercise" />
     <MESSAGE value="Decorate My Text" />
-    <option name="LAST_COMMIT_MESSAGE" value="Decorate My Text" />
+    <MESSAGE value="Javascript Exercises - Lesson 6" />
+    <option name="LAST_COMMIT_MESSAGE" value="Javascript Exercises - Lesson 6" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/styleme.css" />
@@ -798,8 +796,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="70" selection-start-line="21" selection-start-column="70" selection-end-line="21" selection-end-column="70" />
+        <state relative-caret-position="232">
+          <caret line="21" column="168" selection-start-line="21" selection-start-column="137" selection-end-line="21" selection-end-column="168" />
         </state>
       </provider>
     </entry>
