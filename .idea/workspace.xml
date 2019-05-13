@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee497c55-0d7d-47eb-ad3f-4b6a7ad20e67" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/JavaScriptLabs/html/HW8/ascii.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScriptLabs/html/HW8/ascii.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JavaScriptLabs/js/animations.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScriptLabs/js/animations.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaScriptLabs/js/ascii.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScriptLabs/js/ascii.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaScriptLabs/js/decoratemytext.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScriptLabs/js/decoratemytext.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaScriptLabs/js/myUtils.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScriptLabs/js/myUtils.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,7 +17,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Homework/Hw4/signup.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="453">
@@ -38,11 +35,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" column="16" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
+            <state relative-caret-position="172">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
@@ -234,14 +231,7 @@
       <workItem from="1557263673761" duration="2928000" />
       <workItem from="1557327208131" duration="671000" />
       <workItem from="1557515085610" duration="5217000" />
-      <workItem from="1557759848261" duration="697000" />
-    </task>
-    <task id="LOCAL-00016" summary="homework 1">
-      <created>1556669471902</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1556669471902</updated>
+      <workItem from="1557759848261" duration="1410000" />
     </task>
     <task id="LOCAL-00017" summary="homework 1">
       <created>1556671592255</created>
@@ -579,11 +569,18 @@
       <option name="project" value="LOCAL" />
       <updated>1557628841747</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="ASCII Animation Viewer">
+      <created>1557775943019</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1557775943022</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="66743000" />
+    <option name="totallyTimeSpent" value="67456000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -678,7 +675,8 @@
     <MESSAGE value="Tip Calculator Exercise" />
     <MESSAGE value="Decorate My Text" />
     <MESSAGE value="Javascript Exercises - Lesson 6" />
-    <option name="LAST_COMMIT_MESSAGE" value="Javascript Exercises - Lesson 6" />
+    <MESSAGE value="ASCII Animation Viewer" />
+    <option name="LAST_COMMIT_MESSAGE" value="ASCII Animation Viewer" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/styleme.css" />
@@ -819,13 +817,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="16" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/movie.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2085">
@@ -844,6 +835,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1845">
           <caret line="123" column="10" selection-start-line="117" selection-end-line="126" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
