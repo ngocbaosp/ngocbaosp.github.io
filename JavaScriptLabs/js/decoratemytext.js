@@ -1,3 +1,4 @@
+"use strict";
 //alert("Hello, world!");
 
 ////////////////////////////////////////////////////////////////
@@ -56,7 +57,7 @@ function setTextAreaStyle(checkboxState) {
     var txtText = getElementById("txtText");
     var textStyle = txtText.style;
 
-    if (checkboxState == true) {
+    if (checkboxState === true) {
         /*
         textStyle.fontWeight="bold";
         textStyle.color="green";
@@ -123,7 +124,7 @@ function pigLatin(str) {
 
     var vowels = ["a", "e", "i", "o", "u"];
     var index = -1;
-    for (i = 0; i < str.length; i++) {
+    for (let i = 0; i < str.length; i++) {
         if (vowels.includes(str[i])) {
             index = i;
             break;
@@ -163,7 +164,7 @@ function convertString(str, func) {
         var res = s.split(" ");
         var str1 = "";
         for (let word of res) {
-            if (word != "") {
+            if (word !== "") {
                 console.log(word);
                 console.log(func(word));
                 str1 += func(word) + " ";

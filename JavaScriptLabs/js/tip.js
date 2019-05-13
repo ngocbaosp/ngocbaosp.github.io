@@ -1,3 +1,4 @@
+"use strict";
 function calcTip() {
     var subtotalElem = document.getElementById('subtotal');
     var tipElem = document.getElementById('tip');
@@ -6,7 +7,7 @@ function calcTip() {
     var tip = parseFloat(tipElem.value);
 
     if (validateNumber(subtotal)) {
-        if (validateNumber(tip) == false)
+        if (validateNumber(tip) === false)
             return;
     } else
         return;
