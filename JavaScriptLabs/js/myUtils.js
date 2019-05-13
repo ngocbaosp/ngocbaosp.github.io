@@ -24,5 +24,5 @@ function disableControlById(id,state) {
 }
 
 function getFrames(str) {
-    return str.trim().split(/=====\n/g);
+    return str.split("=====\n");
 }

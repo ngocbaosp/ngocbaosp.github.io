@@ -10,14 +10,6 @@ function onloadFunction() {
     var txtText = getElementById("txtText");
     txtText.style.fontSize = "12pt";
 
-    /*
-    var btnBigger = getElementById("btnBigger");
-    btnBigger.onclick = onclickBigger;
-
-    var btnBigger = getElementById("btnBigger");
-    btnBigger.onclick = onclickBigger;
-    */
-
     setButtonClickEvent("btnBigger", onclickBigger);
     setButtonClickEvent("btnSmaller", onclickSmaller);
     setButtonClickEvent("btnReset", onclickReset);

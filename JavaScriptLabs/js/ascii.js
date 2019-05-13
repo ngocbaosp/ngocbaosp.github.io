@@ -1,13 +1,16 @@
 "use strict";
 //////////////////////////////
 window.onload = onLoad;
-var speed = 250;
-var currentFrame = 0;
-var maxFrame = -1;
-var frames;
-var intervalId = null;
-var data = null;
+let speed;
+let currentFrame;
+let maxFrame;
+let frames;
+let intervalId;
+let data;
 
+/**
+ * This is onload function
+ */
 function onLoad() {
     //Init event handlers
     setButtonClickEvent("btnStart", onclickStart);
@@ -16,30 +19,47 @@ function onLoad() {
     setOnChangeEvent("selSize", onChangeSize);
     setOnChangeEvent("chkTurbo", onChangeTurbo);
     setControlStatus(false);
+    initGlobalVars();
 }
+/**
+ * Using this function to init value for global variables
+ */
+function initGlobalVars() {
+
+    speed = 250;
+    currentFrame = 0;
+    maxFrame = -1;
+    frames = null;
+    intervalId = null;
+    data = null;
+}
+
 function setText(str) {
 
-    var txtText = getElementById("txtText");
+    let txtText = getElementById("txtText");
     txtText.value = str;
 
 }
 
 function getAnimationFrames() {
 
-    if(data !==null) {
+    if (data !== null) {
         frames = getFrames(data);
         maxFrame = frames.length;
         console.log(frames);
         console.log(currentFrame);
     }
 }
-
+/**
+ * test
+ */
 function animation() {
     setText(frames[currentFrame]);
     currentFrame++;
-    if(currentFrame===maxFrame)
-        currentFrame=0;
+    if (currentFrame === maxFrame)
+        currentFrame = 0;
 }
+
 ////////////////////////////////////////////////////////////////
 function clearTimer() {
 
@@ -50,17 +70,24 @@ function clearTimer() {
 }
 
 function setControlStatus(isInprgress) {
-    disableControlById("btnStop",!isInprgress);
-    disableControlById("btnStart",isInprgress);
-    disableControlById("selAnimation",isInprgress);
-    disableControlById("txtText",isInprgress);
+    disableControlById("btnStop", !isInprgress);
+    disableControlById("btnStart", isInprgress);
+    disableControlById("selAnimation", isInprgress);
+    disableControlById("txtText", isInprgress);
 }
 
 //////////////////////////////
 function onclickStart() {
+
+   /*
+    let txtText = getElementById("txtText");
+    let s = txtText.value;
+    console.log(s);
+    */
+
     getAnimationFrames();
     clearTimer();
-    currentFrame=0;
+    currentFrame = 0;
     intervalId = setInterval(animation, speed);
     setControlStatus(true);
 
@@ -77,8 +104,8 @@ function onclickStop() {
 //////////////////////////////
 function onChangeAnimation() {
 
-    var index = this.selectedIndex;
-    var choice = this.options[index].value;
+    let index = this.selectedIndex;
+    let choice = this.options[index].value;
     data = ANIMATIONS[choice];
     setText(data);
 
@@ -86,10 +113,13 @@ function onChangeAnimation() {
 
 //////////////////////////////
 function onChangeSize() {
-    var index = this.selectedIndex;
-    var choice = this.options[index].value;
+    let index = this.selectedIndex;
+    let choice = this.options[index].value;
 
-    var txtText = getElementById("txtText");
+    let txtText = getElementById("txtText");
+
+
+
     txtText.style.fontSize = choice + "pt";
 
 }
