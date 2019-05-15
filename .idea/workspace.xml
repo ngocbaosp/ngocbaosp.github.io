@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee497c55-0d7d-47eb-ad3f-4b6a7ad20e67" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/Exercises/Exercise8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/js/exercise8.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -119,11 +121,11 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds">
     <option name="x" value="1542" />
     <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="745" />
+    <option name="height" value="741" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -136,6 +138,11 @@
             <path>
               <item name="github" type="b2602c69:ProjectViewProjectNode" />
               <item name="github" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="github" type="b2602c69:ProjectViewProjectNode" />
+              <item name="github" type="462c0819:PsiDirectoryNode" />
+              <item name="documents" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="github" type="b2602c69:ProjectViewProjectNode" />
@@ -229,14 +236,7 @@
       <workItem from="1557263673761" duration="2928000" />
       <workItem from="1557327208131" duration="671000" />
       <workItem from="1557515085610" duration="5217000" />
-      <workItem from="1557759848261" duration="2321000" />
-    </task>
-    <task id="LOCAL-00017" summary="homework 1">
-      <created>1556671592255</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1556671592255</updated>
+      <workItem from="1557759848261" duration="2706000" />
     </task>
     <task id="LOCAL-00018" summary="homework 1">
       <created>1556673777992</created>
@@ -574,15 +574,21 @@
       <option name="project" value="LOCAL" />
       <updated>1557775943022</updated>
     </task>
-    <option name="localTasksCounter" value="66" />
+    <task id="LOCAL-00066" summary="ASCII Animation Viewer">
+      <created>1557881004401</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1557881004402</updated>
+    </task>
+    <option name="localTasksCounter" value="67" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="68367000" />
+    <option name="totallyTimeSpent" value="68752000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1440" y="0" width="1366" height="768" extended-state="6" />
-    <editor active="true" />
+    <frame x="1440" y="0" width="1366" height="768" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28776434" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
