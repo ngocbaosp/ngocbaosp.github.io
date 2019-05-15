@@ -2,8 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee497c55-0d7d-47eb-ad3f-4b6a7ad20e67" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/css/closure.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/ClosureLab/Q1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/ClosureLab/account.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/closure.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/closure1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/closure2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/closure3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/closureBasic.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/closureBasic1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/practice1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/practice2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/js/closure/account.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/js/closure/q1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/js/practice/closure.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/js/practice/closure1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/js/practice/closure2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/js/practice/closure3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/js/practice/closure3Onload.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/js/practice/closureOnload.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/js/practice/global.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaScriptLabs/js/animations.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScriptLabs/js/animations.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,22 +39,22 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Homework/Hw4/signup.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="453">
-              <caret line="113" column="12" selection-start-line="108" selection-start-column="7" selection-end-line="113" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Homework/Hw4/nerdluv.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="960">
-              <caret line="64" selection-start-line="53" selection-end-line="64" />
+            <state relative-caret-position="1146">
+              <caret line="97" column="12" lean-forward="true" selection-start-line="97" selection-start-column="12" selection-end-line="97" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Homework/Hw4/nerdluv.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="736">
+              <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="172">
@@ -120,9 +139,10 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="1440" />
-    <option name="height" value="900" />
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+    <option name="x" value="1440" />
+    <option name="width" value="1366" />
+    <option name="height" value="768" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -135,27 +155,6 @@
             <path>
               <item name="github" type="b2602c69:ProjectViewProjectNode" />
               <item name="github" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="github" type="b2602c69:ProjectViewProjectNode" />
-              <item name="github" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="github" type="b2602c69:ProjectViewProjectNode" />
-              <item name="github" type="462c0819:PsiDirectoryNode" />
-              <item name="documents" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="github" type="b2602c69:ProjectViewProjectNode" />
-              <item name="github" type="462c0819:PsiDirectoryNode" />
-              <item name="Homework" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="github" type="b2602c69:ProjectViewProjectNode" />
-              <item name="github" type="462c0819:PsiDirectoryNode" />
-              <item name="Homework" type="462c0819:PsiDirectoryNode" />
-              <item name="Hw4" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -231,7 +230,7 @@
       <workItem from="1557263673761" duration="2928000" />
       <workItem from="1557327208131" duration="671000" />
       <workItem from="1557515085610" duration="5217000" />
-      <workItem from="1557759848261" duration="1410000" />
+      <workItem from="1557759848261" duration="2216000" />
     </task>
     <task id="LOCAL-00017" summary="homework 1">
       <created>1556671592255</created>
@@ -580,13 +579,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="67456000" />
+    <option name="totallyTimeSpent" value="68262000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="1440" y="0" width="1366" height="768" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2725322" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28776434" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -601,7 +600,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" />
-      <window_info anchor="bottom" id="Version Control" order="8" visible="true" weight="0.17710844" />
+      <window_info anchor="bottom" id="Version Control" order="8" visible="true" weight="0.21060172" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
@@ -803,20 +802,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Homework/Hw4/signup.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="453">
-          <caret line="113" column="12" selection-start-line="108" selection-start-column="7" selection-end-line="113" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Homework/Hw4/nerdluv.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="960">
-          <caret line="64" selection-start-line="53" selection-end-line="64" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/movie.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2085">
@@ -842,6 +827,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="172">
           <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homework/Hw4/signup.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1146">
+          <caret line="97" column="12" lean-forward="true" selection-start-line="97" selection-start-column="12" selection-end-line="97" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homework/Hw4/nerdluv.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="736">
+          <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
         </state>
       </provider>
     </entry>
