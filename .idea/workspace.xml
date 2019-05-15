@@ -2,8 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee497c55-0d7d-47eb-ad3f-4b6a7ad20e67" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/Exercises/Exercise8.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/js/exercise8.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/module15.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/module16.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/module16b.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/module8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/js/practice/module1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/js/practice/module10.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/js/practice/module11.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/js/practice/module12.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/js/practice/module13.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/js/practice/module14.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/js/practice/module15.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/js/practice/module16.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/js/practice/module16b.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/js/practice/module8.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/documents/Javascript Module Exercises.docx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -21,8 +34,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Homework/Hw4/signup.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1146">
-              <caret line="97" column="12" lean-forward="true" selection-start-line="97" selection-start-column="12" selection-end-line="97" selection-end-column="12" />
+            <state relative-caret-position="1455">
+              <caret line="97" column="12" selection-start-line="97" selection-start-column="12" selection-end-line="97" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -30,8 +43,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Homework/Hw4/nerdluv.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="736">
-              <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
+            <state relative-caret-position="795">
+              <caret line="53" selection-start-line="53" selection-end-line="53" />
             </state>
           </provider>
         </entry>
@@ -39,8 +52,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="18" column="131" selection-start-line="18" selection-start-column="131" selection-end-line="18" selection-end-column="131" />
+            <state relative-caret-position="170">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
             </state>
           </provider>
         </entry>
@@ -121,17 +134,17 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="1542" />
-    <option name="y" value="23" />
-    <option name="width" value="1440" />
-    <option name="height" value="741" />
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+    <option name="x" value="1440" />
+    <option name="width" value="1366" />
+    <option name="height" value="768" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -166,7 +179,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -236,21 +248,8 @@
       <workItem from="1557263673761" duration="2928000" />
       <workItem from="1557327208131" duration="671000" />
       <workItem from="1557515085610" duration="5217000" />
-      <workItem from="1557759848261" duration="2706000" />
-    </task>
-    <task id="LOCAL-00018" summary="homework 1">
-      <created>1556673777992</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1556673777992</updated>
-    </task>
-    <task id="LOCAL-00019" summary="homework 1">
-      <created>1556674623245</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1556674623245</updated>
+      <workItem from="1557759848261" duration="3084000" />
+      <workItem from="1557964038329" duration="20000" />
     </task>
     <task id="LOCAL-00020" summary="homework 1">
       <created>1556674672408</created>
@@ -581,16 +580,31 @@
       <option name="project" value="LOCAL" />
       <updated>1557881004402</updated>
     </task>
-    <option name="localTasksCounter" value="67" />
+    <task id="LOCAL-00067" summary="Javascript Scope Exercises">
+      <created>1557889251885</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1557889251886</updated>
+    </task>
+    <task id="LOCAL-00068" summary="Javascript Scope Exercises">
+      <created>1557889554183</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1557889554184</updated>
+    </task>
+    <option name="localTasksCounter" value="69" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="68752000" />
+    <option name="totallyTimeSpent" value="69150000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1440" y="0" width="1366" height="768" extended-state="0" />
+    <frame x="1440" y="0" width="1366" height="768" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28776434" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30513597" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -680,7 +694,8 @@
     <MESSAGE value="Decorate My Text" />
     <MESSAGE value="Javascript Exercises - Lesson 6" />
     <MESSAGE value="ASCII Animation Viewer" />
-    <option name="LAST_COMMIT_MESSAGE" value="ASCII Animation Viewer" />
+    <MESSAGE value="Javascript Scope Exercises" />
+    <option name="LAST_COMMIT_MESSAGE" value="Javascript Scope Exercises" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/styleme.css" />
@@ -807,6 +822,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Homework/Hw4/signup.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1455">
+          <caret line="97" column="12" selection-start-line="97" selection-start-column="12" selection-end-line="97" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homework/Hw4/nerdluv.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="795">
+          <caret line="53" selection-start-line="53" selection-end-line="53" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/css/movie.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2085">
@@ -828,24 +857,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Homework/Hw4/signup.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1146">
-          <caret line="97" column="12" lean-forward="true" selection-start-line="97" selection-start-column="12" selection-end-line="97" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Homework/Hw4/nerdluv.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="736">
-          <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="18" column="131" selection-start-line="18" selection-start-column="131" selection-end-line="18" selection-end-column="131" />
+        <state relative-caret-position="170">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>
