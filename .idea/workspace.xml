@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee497c55-0d7d-47eb-ad3f-4b6a7ad20e67" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/js/practice/module20.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/jQuery/quiz1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/jQuery/quiz1b.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -38,8 +39,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-157">
-              <caret line="21" column="6" lean-forward="true" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
+            <state relative-caret-position="205">
+              <caret line="19" column="126" selection-start-line="19" selection-start-column="126" selection-end-line="19" selection-end-column="126" />
             </state>
           </provider>
         </entry>
@@ -120,7 +121,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
     <option name="x" value="1481" />
     <option name="y" value="28" />
     <option name="width" value="1440" />
@@ -131,7 +132,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -143,6 +143,19 @@
               <item name="github" type="b2602c69:ProjectViewProjectNode" />
               <item name="github" type="462c0819:PsiDirectoryNode" />
               <item name="JavaScriptLabs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="github" type="b2602c69:ProjectViewProjectNode" />
+              <item name="github" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaScriptLabs" type="462c0819:PsiDirectoryNode" />
+              <item name="html" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="github" type="b2602c69:ProjectViewProjectNode" />
+              <item name="github" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaScriptLabs" type="462c0819:PsiDirectoryNode" />
+              <item name="html" type="462c0819:PsiDirectoryNode" />
+              <item name="jQuery" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="github" type="b2602c69:ProjectViewProjectNode" />
@@ -168,6 +181,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -239,13 +253,7 @@
       <workItem from="1557515085610" duration="5217000" />
       <workItem from="1557759848261" duration="3084000" />
       <workItem from="1557964038329" duration="988000" />
-    </task>
-    <task id="LOCAL-00022" summary="homework 1">
-      <created>1556677435768</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1556677435768</updated>
+      <workItem from="1558060672587" duration="759000" />
     </task>
     <task id="LOCAL-00023" summary="homework 1">
       <created>1556677515885</created>
@@ -583,17 +591,24 @@
       <option name="project" value="LOCAL" />
       <updated>1557964780715</updated>
     </task>
-    <option name="localTasksCounter" value="71" />
+    <task id="LOCAL-00071" summary="The Amazing Mouse Maze!">
+      <created>1558060722480</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1558060722481</updated>
+    </task>
+    <option name="localTasksCounter" value="72" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="70118000" />
+    <option name="totallyTimeSpent" value="70877000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1481" y="28" width="1440" height="682" extended-state="0" />
+    <frame x="1440" y="0" width="1366" height="768" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28898427" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29305136" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -608,7 +623,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" />
-      <window_info anchor="bottom" id="Version Control" order="8" visible="true" weight="0.24915254" />
+      <window_info anchor="bottom" id="Version Control" order="8" visible="true" weight="0.247851" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
@@ -685,7 +700,8 @@
     <MESSAGE value="ASCII Animation Viewer" />
     <MESSAGE value="Javascript Scope Exercises" />
     <MESSAGE value="Javascript Module Exercises" />
-    <option name="LAST_COMMIT_MESSAGE" value="Javascript Module Exercises" />
+    <MESSAGE value="The Amazing Mouse Maze!" />
+    <option name="LAST_COMMIT_MESSAGE" value="The Amazing Mouse Maze!" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/styleme.css" />
@@ -849,8 +865,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-157">
-          <caret line="21" column="6" lean-forward="true" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
+        <state relative-caret-position="205">
+          <caret line="19" column="126" selection-start-line="19" selection-start-column="126" selection-end-line="19" selection-end-column="126" />
         </state>
       </provider>
     </entry>
