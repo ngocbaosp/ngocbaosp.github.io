@@ -3,6 +3,8 @@ var maze = (function () {
 
     var wallHit = false;
     var gameStarted = false;
+    var msgWin = "Yeah! You win !";
+    var msgLose = "Sorry! You lose. Click the \"S\" to start again.";
 
     $(document).ready(function () {
 
@@ -39,7 +41,7 @@ var maze = (function () {
         if (gameStarted === false) return;
         wallHit = true;
         $("#maze .boundary").addClass("youlose");
-        setTextMessage("Sorry! You lose :-)");
+        setTextMessage(msgLose);
         gameOver();
     };
 
@@ -50,9 +52,9 @@ var maze = (function () {
             return;
 
         if (wallHit === false) {
-            setTextMessage("Yeah! You win !");
+            setTextMessage(msgWin);
         } else {
-            setTextMessage("Sorry! You lose :-)");
+            setTextMessage(msgLose);
         }
         gameOver();
     };
