@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee497c55-0d7d-47eb-ad3f-4b6a7ad20e67" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/jQuery/quiz1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/jQuery/quiz1b.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/css/fifteen.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/HW9/fifteen.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/images/background.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/js/jQuery/fifteen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/js/jQuery/grading.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/js/jQuery/prototype.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -39,8 +43,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="205">
-              <caret line="19" column="126" selection-start-line="19" selection-start-column="126" selection-end-line="19" selection-end-column="126" />
+            <state relative-caret-position="355">
+              <caret line="29" column="109" selection-start-line="29" selection-start-column="109" selection-end-line="29" selection-end-column="109" />
             </state>
           </provider>
         </entry>
@@ -121,11 +125,11 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
-    <option name="x" value="1481" />
-    <option name="y" value="28" />
-    <option name="width" value="1440" />
-    <option name="height" value="682" />
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="x" value="1577" />
+    <option name="y" value="23" />
+    <option name="width" value="1366" />
+    <option name="height" value="681" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -138,6 +142,11 @@
             <path>
               <item name="github" type="b2602c69:ProjectViewProjectNode" />
               <item name="github" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="github" type="b2602c69:ProjectViewProjectNode" />
+              <item name="github" type="462c0819:PsiDirectoryNode" />
+              <item name="documents" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="github" type="b2602c69:ProjectViewProjectNode" />
@@ -253,21 +262,7 @@
       <workItem from="1557515085610" duration="5217000" />
       <workItem from="1557759848261" duration="3084000" />
       <workItem from="1557964038329" duration="988000" />
-      <workItem from="1558060672587" duration="759000" />
-    </task>
-    <task id="LOCAL-00023" summary="homework 1">
-      <created>1556677515885</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1556677515885</updated>
-    </task>
-    <task id="LOCAL-00024" summary="homework 1">
-      <created>1556722899511</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1556722899511</updated>
+      <workItem from="1558060672587" duration="998000" />
     </task>
     <task id="LOCAL-00025" summary="homework 1">
       <created>1556722983047</created>
@@ -598,14 +593,28 @@
       <option name="project" value="LOCAL" />
       <updated>1558060722481</updated>
     </task>
-    <option name="localTasksCounter" value="72" />
+    <task id="LOCAL-00072" summary="jQuery Quiz I">
+      <created>1558063746651</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1558063746651</updated>
+    </task>
+    <task id="LOCAL-00073" summary="jQuery Quiz I">
+      <created>1558063820170</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1558063820170</updated>
+    </task>
+    <option name="localTasksCounter" value="74" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="70877000" />
+    <option name="totallyTimeSpent" value="71116000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1440" y="0" width="1366" height="768" extended-state="6" />
+    <frame x="1440" y="0" width="1366" height="768" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29305136" />
@@ -701,7 +710,8 @@
     <MESSAGE value="Javascript Scope Exercises" />
     <MESSAGE value="Javascript Module Exercises" />
     <MESSAGE value="The Amazing Mouse Maze!" />
-    <option name="LAST_COMMIT_MESSAGE" value="The Amazing Mouse Maze!" />
+    <MESSAGE value="jQuery Quiz I" />
+    <option name="LAST_COMMIT_MESSAGE" value="jQuery Quiz I" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/styleme.css" />
@@ -865,8 +875,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="19" column="126" selection-start-line="19" selection-start-column="126" selection-end-line="19" selection-end-column="126" />
+        <state relative-caret-position="355">
+          <caret line="29" column="109" selection-start-line="29" selection-start-column="109" selection-end-line="29" selection-end-column="109" />
         </state>
       </provider>
     </entry>
