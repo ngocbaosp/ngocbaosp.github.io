@@ -238,6 +238,7 @@ var puzze = (function () {
     let autoPlayClick = function () {
 
         autoPlayStatus = true;
+        setAutoPlayStatus(autoPlayStatus);
         console.log("test");
         autoPlayTimer = setInterval(autoPlay,TIME_OUT);
 
@@ -259,14 +260,22 @@ var puzze = (function () {
             clearInterval(autoPlayTimer);
 
         }
-
-
     };
     /////////////////////////////////////////////////////////////
     let stopAutoPlayClick = function () {
         autoPlayStatus = false;
         clearInterval(autoPlayTimer);
-    }
+        setAutoPlayStatus(autoPlayStatus);
+    };
+
+    let setAutoPlayStatus=function(disabled)
+    {
+        $("#shufflebutton").attr('disabled',disabled);
+        $("#btnRandomMove").attr('disabled',disabled);
+        $("#btnAutoPlay").attr('disabled',disabled);
+        $("#btnStopAutoPlay").attr('disabled',!disabled);
+
+    };
 
 
 })();
