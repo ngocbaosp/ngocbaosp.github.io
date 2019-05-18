@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+    <script src="../../../../js/jQuery/jquery-3.4.1.js"></script>
+
+    <script>
+        $(document).ready(function () {
+
+            $("li").each(function(idx) { $(this).css("color", "yellow"); });
+
+            //$("li").each(function() { $(this).css("color", "yellow"); });
+
+/*
+
+            $("li").each(function(idx, e) {
+                console.log(e);
+                $(e).css("color", "yellow"); });
+  */
+        });
+
+    </script>
+</head>
+<body>
+<div>no ul here </div>
+
+<div>
+
+    This does contain a ul.
+
+    <ul>
+
+        <li>the first item</li>
+
+        <li>the second item</li>
+
+    </ul>
+
+</div>
+
+
+
+</body>
+</html>
