@@ -9,7 +9,7 @@ var puzze = (function () {
     const COLS = 4;
     const NUM_STEPS = 50;
     const TILE_SIZE = 100;
-    const MAX = 1000;
+    const MAX = 1000000;
     const TIME_OUT = 1000;
     //0: Move down, 1: Move left, 2: Move up, 3: Move right
     const MOVE = [{i: 0, j: 1}, {i: -1, j: 0}, {i: 0, j: -1}, {i: 1, j: 0}];
