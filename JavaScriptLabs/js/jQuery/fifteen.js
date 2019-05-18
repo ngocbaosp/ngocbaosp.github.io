@@ -1,14 +1,13 @@
 var puzze = (function () {
-    var boxesPosition = [];
 
     var emptySquarePosition = 15;
-    const COLS = 4;
     var nRow = 0;
     var nPieces = 0;
-    var NUM_STEPS = 50;
     var autoPlayStatus = false;
     var autoPlayTimer = null;
 
+    const COLS = 4;
+    const NUM_STEPS = 50;
     const TILE_SIZE = 100;
     const MAX = 1000;
     const TIME_OUT=1000;
@@ -19,19 +18,19 @@ var puzze = (function () {
     let arrMoveStatus = [];
     let msgWin = "Yeah! you win!";
 
+    /////////////////////////////////////////////////////////////
     let MoveStatus = function (piece, oldPosition, newPosition) {
         this.piece = piece;
         this.oldPosition = oldPosition;
         this.newPosition = newPosition;
     };
-
-
+    /////////////////////////////////////////////////////////////
     $(document).ready(function () {
 
         jInit();
 
     });
-
+    /////////////////////////////////////////////////////////////
     let jInit = function () {
 
         $("#puzzlearea div").each(function (index) {
@@ -46,10 +45,10 @@ var puzze = (function () {
 
 
     };
+    /////////////////////////////////////////////////////////////
+    //console.log(boxesPosition);
 
-    console.log(boxesPosition);
-
-
+    /////////////////////////////////////////////////////////////
     let getBoxIndex = function (piece) {
 
         let left = $(piece).css('left');
@@ -63,25 +62,23 @@ var puzze = (function () {
 
     };
 
-
+    /////////////////////////////////////////////////////////////
     let getBoxPosition = function (i) {
 
         return {x: ((i % COLS) * TILE_SIZE), y: (Math.floor(i / COLS) * TILE_SIZE)};
     };
-
+    /////////////////////////////////////////////////////////////
     let move = function (piece, newPosition) {
 
-        console.log(piece);
+        //console.log(piece);
 
         //get current position of piece
         let currentPosition = getBoxIndex(piece);
 
-        console.log("position of pices=" + currentPosition);
+        //console.log("position of pices=" + currentPosition);
 
         //check if this piece can move to empty square position
         if (checkMove(currentPosition, emptySquarePosition) === false) return false;
-
-
         ////////////////////////////////////////////////
         //Tracking
         if (autoPlayStatus === false) {
@@ -96,21 +93,19 @@ var puzze = (function () {
 
 
     };
-
+    /////////////////////////////////////////////////////////////
     let showMessage = function (msg) {
 
-        $("#status").text(msg);
-        $("#status").css('color','red');
+        $("#status").text(msg).css('color','red');
     };
-
+    /////////////////////////////////////////////////////////////
     let cellIndex = function (position) {
         let c = {};
         c.i = position % COLS;
         c.j = Math.floor(position / COLS);
         return c;
     };
-
-
+    /////////////////////////////////////////////////////////////
     let checkMove = function (currentPosition, newPosition) {
 
         let c1 = cellIndex(currentPosition);
@@ -120,7 +115,7 @@ var puzze = (function () {
         return d === 1;
 
     };
-
+    /////////////////////////////////////////////////////////////
     let setPosition = function (piece, i) {
 
         let box = getBoxPosition(i);
@@ -130,23 +125,20 @@ var puzze = (function () {
 
     };
 
-
+    /////////////////////////////////////////////////////////////
     let initPuzze = function (piece, i) {
 
         let box = getBoxPosition(i);
         let position = -box.x + 'px ' + (-box.y) + 'px';
-        boxesPosition.push(box);
+        //boxesPosition.push(box);
         $(piece).addClass("puzzlepiece");
         setPosition(piece, i);
         $(piece).css({'backgroundImage': bgImage, 'backgroundPosition': position});
-
         //add event handler
-
         $(piece).click(tileClick);
 
-
     };
-
+    /////////////////////////////////////////////////////////////
     let tileClick = function () {
 
         //console.log($(this));
@@ -155,7 +147,7 @@ var puzze = (function () {
             showMessage(msgWin);
 
     };
-
+    /////////////////////////////////////////////////////////////
     let shuffle = function () {
         reset();
         for (let i = 0; i < NUM_STEPS; i++)
@@ -164,7 +156,7 @@ var puzze = (function () {
         console.log(arrMoveStatus);
 
     };
-
+    /////////////////////////////////////////////////////////////
     let reset = function () {
         emptySquarePosition = 15;
         arrMoveStatus = [];
@@ -174,7 +166,7 @@ var puzze = (function () {
             arr[i] = i;
         drawPuzzle(arr);
     };
-
+    /////////////////////////////////////////////////////////////
     let drawPuzzle = function (arr) {
 
         $("#puzzlearea div").each(function (index) {
@@ -184,7 +176,7 @@ var puzze = (function () {
         console.log(arr);
 
     };
-
+    /////////////////////////////////////////////////////////////
 
     let randomMove = function (max) {
 
@@ -192,7 +184,7 @@ var puzze = (function () {
         return my_num % 4;
 
     };
-
+    /////////////////////////////////////////////////////////////
     let randomMoveClick = function () {
 
         let canMove = false;
@@ -214,10 +206,8 @@ var puzze = (function () {
         let position = cellWillMove.j * COLS + cellWillMove.i;
         let piece = getPieceByPosition(position);
         move(piece, emptySquarePosition);
-
-
     };
-
+    /////////////////////////////////////////////////////////////
     let getPieceByPosition = function (position) {
         $("#puzzlearea div").each(function (index, value) {
 
@@ -230,7 +220,7 @@ var puzze = (function () {
 
         });
     };
-
+    /////////////////////////////////////////////////////////////
     let checkWin = function () {
         let res = true;
         $("#puzzlearea div").each(function (index, value) {
@@ -244,7 +234,7 @@ var puzze = (function () {
 
         return res;
     };
-
+    /////////////////////////////////////////////////////////////
     let autoPlayClick = function () {
 
         autoPlayStatus = true;
@@ -252,9 +242,11 @@ var puzze = (function () {
         autoPlayTimer = setInterval(autoPlay,TIME_OUT);
 
     };
-
+    /////////////////////////////////////////////////////////////
     let autoPlay = function () {
 
+        let msg = "Remaining steps: "+ arrMoveStatus.length;
+        showMessage(msg);
         if (arrMoveStatus.length > 0) {
             let step = arrMoveStatus.pop();
             console.log(step);
@@ -270,7 +262,7 @@ var puzze = (function () {
 
 
     };
-    
+    /////////////////////////////////////////////////////////////
     let stopAutoPlayClick = function () {
         autoPlayStatus = false;
         clearInterval(autoPlayTimer);
