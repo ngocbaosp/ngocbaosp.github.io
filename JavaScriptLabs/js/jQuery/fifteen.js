@@ -10,7 +10,7 @@ var puzze = (function () {
     const NUM_STEPS = 50;
     const TILE_SIZE = 100;
     const MAX = 1000;
-    const TIME_OUT=1000;
+    const TIME_OUT = 1000;
     //0: Move down, 1: Move left, 2: Move up, 3: Move right
     const MOVE = [{i: 0, j: 1}, {i: -1, j: 0}, {i: 0, j: -1}, {i: 1, j: 0}];
 
@@ -41,7 +41,6 @@ var puzze = (function () {
         $("#btnRandomMove").click(randomMoveClick);
         $("#btnAutoPlay").click(autoPlayClick);
         $("#btnStopAutoPlay").click(stopAutoPlayClick);
-
 
 
     };
@@ -96,7 +95,7 @@ var puzze = (function () {
     /////////////////////////////////////////////////////////////
     let showMessage = function (msg) {
 
-        $("#status").text(msg).css('color','red');
+        $("#status").text(msg).css('color', 'red');
     };
     /////////////////////////////////////////////////////////////
     let cellIndex = function (position) {
@@ -240,21 +239,20 @@ var puzze = (function () {
         autoPlayStatus = true;
         setAutoPlayStatus(autoPlayStatus);
         console.log("test");
-        autoPlayTimer = setInterval(autoPlay,TIME_OUT);
+        autoPlayTimer = setInterval(autoPlay, TIME_OUT);
 
     };
     /////////////////////////////////////////////////////////////
     let autoPlay = function () {
 
-        let msg = "Remaining steps: "+ arrMoveStatus.length;
+        let msg = "Remaining steps: " + arrMoveStatus.length;
         showMessage(msg);
         if (arrMoveStatus.length > 0) {
             let step = arrMoveStatus.pop();
             console.log(step);
             move(step.piece, step.oldPosition);
             console.log(arrMoveStatus);
-        }
-        else{
+        } else {
             autoPlayStatus = false;
             showMessage(msgWin);
             clearInterval(autoPlayTimer);
@@ -268,12 +266,11 @@ var puzze = (function () {
         setAutoPlayStatus(autoPlayStatus);
     };
 
-    let setAutoPlayStatus=function(disabled)
-    {
-        $("#shufflebutton").attr('disabled',disabled);
-        $("#btnRandomMove").attr('disabled',disabled);
-        $("#btnAutoPlay").attr('disabled',disabled);
-        $("#btnStopAutoPlay").attr('disabled',!disabled);
+    let setAutoPlayStatus = function (disabled) {
+        $("#shufflebutton").attr('disabled', disabled);
+        $("#btnRandomMove").attr('disabled', disabled);
+        $("#btnAutoPlay").attr('disabled', disabled);
+        $("#btnStopAutoPlay").attr('disabled', !disabled);
 
     };
 
