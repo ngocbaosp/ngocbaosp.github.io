@@ -256,6 +256,8 @@ var puzze = (function () {
             autoPlayStatus = false;
             showMessage(msgWin);
             clearInterval(autoPlayTimer);
+            setAutoPlayStatus(autoPlayStatus);
+
 
         }
     };
