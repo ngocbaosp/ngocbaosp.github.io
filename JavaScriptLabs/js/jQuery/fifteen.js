@@ -5,7 +5,7 @@ var puzze = (function () {
     const COLS = 4;
     var nRow = 0;
     var nPieces = 0;
-    var NUM_STEPS = 10;
+    var NUM_STEPS = 50;
     var autoPlayStatus = false;
     var autoPlayTimer = null;
 
@@ -100,6 +100,7 @@ var puzze = (function () {
     let showMessage = function (msg) {
 
         $("#status").text(msg);
+        $("#status").css('color','red');
     };
 
     let cellIndex = function (position) {
@@ -195,6 +196,7 @@ var puzze = (function () {
     let randomMoveClick = function () {
 
         let canMove = false;
+        showMessage("");
         let nRows = Math.floor(nPieces / COLS) + 1;
         let emmtyCell = cellIndex(emptySquarePosition);
         let cellWillMove = {};
