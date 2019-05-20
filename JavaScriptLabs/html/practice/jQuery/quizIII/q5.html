@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+    <script src="../../../../js/practice/jQuery/jquery-3.4.1.js"></script>
+
+    <script>
+
+        $(document).ready(function () {
+
+            let $e = $("span:contains('some text')");
+            $e.parent().css("color", "green");
+            $e.parent().parent().css("color", "green");
+
+        });
+
+    </script>
+
+</head>
+
+<body>
+
+<div class="ancestors">
+
+    <div> (great-grandparent)
+
+
+        <ul> (grandparent)
+
+            <li> (direct parent)
+
+                <span>some text</span>
+
+            </li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+</body>
+
+</html>

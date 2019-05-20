@@ -2,119 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee497c55-0d7d-47eb-ad3f-4b6a7ad20e67" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/jQuery/ch04/Ch04_exp41.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/jQuery/ch04/begin/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/jQuery/ch04/begin/scripts/jquery-1.6.2.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/jQuery/ch04/begin/scripts/my_scripts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/jQuery/ch04/begin/styles/my_style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/jQuery/ch04/end/images/leaf.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/jQuery/ch04/end/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/jQuery/ch04/end/scripts/jquery-1.6.2.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/jQuery/ch04/end/scripts/my_scripts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/jQuery/ch04/end/styles/my_style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/jQuery/ch04/traversal/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/jQuery/ch04/traversal/scripts/jquery-1.6.2.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/jQuery/ch04/traversal/scripts/my_scripts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/jQuery/ch04/traversal/styles/my_style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/jQuery/ch05/begin/images/Monster_Mashup.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/jQuery/ch05/begin/images/eyesstrip.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/jQuery/ch05/begin/images/frame.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/jQuery/ch05/begin/images/headsstrip.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/jQuery/ch05/begin/images/lightning-01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/jQuery/ch05/begin/images/lightning-02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/jQuery/ch05/begin/images/lightning-03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/jQuery/ch05/begin/images/mouthsstrip.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/jQuery/ch05/begin/images/nosesstrip.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/jQuery/ch05/begin/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/jQuery/ch05/begin/scripts/jquery-1.6.2.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/jQuery/ch05/begin/scripts/my_scripts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/jQuery/ch05/end/images/Monster_Mashup.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/jQuery/ch05/end/images/eyesstrip.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/jQuery/ch05/end/images/frame.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/jQuery/ch05/end/images/headsstrip.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/jQuery/ch05/end/images/lightning-01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/jQuery/ch05/end/images/lightning-02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/jQuery/ch05/end/images/lightning-03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/jQuery/ch05/end/images/mouthsstrip.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/jQuery/ch05/end/images/nosesstrip.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/jQuery/ch05/end/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/jQuery/ch05/end/scripts/jquery-1.6.2.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/jQuery/ch05/end/scripts/my_scripts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/jQuery/ch05/end/styles/my_style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/jQuery/ch06/begin/images/deck_small.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/jQuery/ch06/begin/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/jQuery/ch06/begin/scripts/jquery-1.6.2.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/jQuery/ch06/begin/scripts/my_scripts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/jQuery/ch06/begin/styles/my_style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/jQuery/ch06/end/images/cards/Clubs/Ace.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/jQuery/ch06/end/images/cards/Clubs/Eight.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/jQuery/ch06/end/images/cards/Clubs/Five.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/jQuery/ch06/end/images/cards/Clubs/Four.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/jQuery/ch06/end/images/cards/Clubs/Jack.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/jQuery/ch06/end/images/cards/Clubs/King.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/jQuery/ch06/end/images/cards/Clubs/Nine.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/jQuery/ch06/end/images/cards/Clubs/Queen.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/jQuery/ch06/end/images/cards/Clubs/Seven.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/jQuery/ch06/end/images/cards/Clubs/Six.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/jQuery/ch06/end/images/cards/Clubs/Ten.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/jQuery/ch06/end/images/cards/Clubs/Three.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/jQuery/ch06/end/images/cards/Clubs/Two.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/jQuery/ch06/end/images/cards/Diamonds/Ace.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/jQuery/ch06/end/images/cards/Diamonds/Eight.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/jQuery/ch06/end/images/cards/Diamonds/Five.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/jQuery/ch06/end/images/cards/Diamonds/Four.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/jQuery/ch06/end/images/cards/Diamonds/Jack.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/jQuery/ch06/end/images/cards/Diamonds/King.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/jQuery/ch06/end/images/cards/Diamonds/Nine.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/jQuery/ch06/end/images/cards/Diamonds/Queen.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/jQuery/ch06/end/images/cards/Diamonds/Seven.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/jQuery/ch06/end/images/cards/Diamonds/Six.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/jQuery/ch06/end/images/cards/Diamonds/Ten.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/jQuery/ch06/end/images/cards/Diamonds/Three.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/jQuery/ch06/end/images/cards/Diamonds/Two.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/jQuery/ch06/end/images/cards/Hearts/Ace.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/jQuery/ch06/end/images/cards/Hearts/Eight.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/jQuery/ch06/end/images/cards/Hearts/Five.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/jQuery/ch06/end/images/cards/Hearts/Four.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/jQuery/ch06/end/images/cards/Hearts/Jack.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/jQuery/ch06/end/images/cards/Hearts/King.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/jQuery/ch06/end/images/cards/Hearts/Nine.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/jQuery/ch06/end/images/cards/Hearts/Queen.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/jQuery/ch06/end/images/cards/Hearts/Seven.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/jQuery/ch06/end/images/cards/Hearts/Six.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/jQuery/ch06/end/images/cards/Hearts/Ten.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/jQuery/ch06/end/images/cards/Hearts/Three.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/jQuery/ch06/end/images/cards/Hearts/Two.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/jQuery/ch06/end/images/cards/Spades/Ace.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/jQuery/ch06/end/images/cards/Spades/Eight.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/jQuery/ch06/end/images/cards/Spades/Five.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/jQuery/ch06/end/images/cards/Spades/Four.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/jQuery/ch06/end/images/cards/Spades/Jack.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/jQuery/ch06/end/images/cards/Spades/King.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/jQuery/ch06/end/images/cards/Spades/Nine.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/jQuery/ch06/end/images/cards/Spades/Queen.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/jQuery/ch06/end/images/cards/Spades/Seven.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/jQuery/ch06/end/images/cards/Spades/Six.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/jQuery/ch06/end/images/cards/Spades/Ten.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/jQuery/ch06/end/images/cards/Spades/Three.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/jQuery/ch06/end/images/cards/Spades/Two.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/jQuery/ch06/end/images/check.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/jQuery/ch06/end/images/deck_small.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/jQuery/ch06/end/images/hit_small.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/jQuery/ch06/end/images/restart_small.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/jQuery/ch06/end/images/stick_small.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/jQuery/ch06/end/images/x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/jQuery/ch06/end/images/x2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/jQuery/ch06/end/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/jQuery/ch06/end/scripts/jquery-1.6.2.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/jQuery/ch06/end/scripts/my_scripts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/jQuery/ch06/end/styles/my_style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/jQuery/menu.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/jQuery/quizII/q1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/jQuery/quizII/q2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/jQuery/quizII/q3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/documents/jQuery Quiz II.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/jQuery/ch04/practice/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/jQuery/ch04/practice/scripts/jquery-1.6.2.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/jQuery/ch04/practice/scripts/my_scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/jQuery/ch04/practice/styles/my_style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/jQuery/quizIII/q1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/jQuery/quizIII/q2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/jQuery/quizIII/q3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/jQuery/quizIII/q5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/jQuery/quizIII/t1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/documents/jQuery Quiz III.docx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScriptLabs/html/practice/jQuery/ch04/begin/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/jQuery/ch04/begin/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScriptLabs/html/practice/jQuery/ch04/begin/scripts/my_scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScriptLabs/html/practice/jQuery/ch04/begin/scripts/my_scripts.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -150,8 +50,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="412">
-              <caret line="31" column="110" selection-start-line="31" selection-start-column="110" selection-end-line="31" selection-end-column="110" />
+            <state relative-caret-position="427">
+              <caret line="32" column="148" selection-start-line="32" selection-start-column="148" selection-end-line="32" selection-end-column="148" />
             </state>
           </provider>
         </entry>
@@ -368,14 +268,7 @@
       <workItem from="1557759848261" duration="3084000" />
       <workItem from="1557964038329" duration="988000" />
       <workItem from="1558060672587" duration="2004000" />
-      <workItem from="1558207364307" duration="51000" />
-    </task>
-    <task id="LOCAL-00028" summary="homework2">
-      <created>1556764290784</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1556764290784</updated>
+      <workItem from="1558207364307" duration="827000" />
     </task>
     <task id="LOCAL-00029" summary="homework2">
       <created>1556770134530</created>
@@ -713,11 +606,18 @@
       <option name="project" value="LOCAL" />
       <updated>1558147906142</updated>
     </task>
-    <option name="localTasksCounter" value="77" />
+    <task id="LOCAL-00077" summary="Fifteen Puzzle">
+      <created>1558207431583</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1558207431584</updated>
+    </task>
+    <option name="localTasksCounter" value="78" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="72173000" />
+    <option name="totallyTimeSpent" value="72949000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -982,8 +882,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="412">
-          <caret line="31" column="110" selection-start-line="31" selection-start-column="110" selection-end-line="31" selection-end-column="110" />
+        <state relative-caret-position="427">
+          <caret line="32" column="148" selection-start-line="32" selection-start-column="148" selection-end-line="32" selection-end-column="148" />
         </state>
       </provider>
     </entry>
