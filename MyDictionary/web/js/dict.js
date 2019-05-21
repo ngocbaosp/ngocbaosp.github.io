@@ -8,6 +8,7 @@ var dic = function () {
 
         $("#btnLookup").click(callAjax);
         $("#loading").hide();
+        $(".definition").hide();
         $(document).ajaxStart(ajaxStart);
         $(document).ajaxStop(ajaxStop);
 
@@ -17,11 +18,14 @@ var dic = function () {
     var ajaxStart = function () {
         $("#loading").show();
         $(".definition").children().remove();
+        $(".definition").hide();
 
     };
 
     var ajaxStop = function () {
         $("#loading").hide();
+        $(".definition").show();
+
 
     };
 
@@ -52,7 +56,7 @@ var dic = function () {
 
             $d.after().html("<ol></ol>");
 
-            $d.first().before("<p><span>"+$("#term").val()+"</span></p>");
+            $d.children().first().before("<p><span>"+$("#term").val()+"</span></p>");
 
             var $dl = $(".definition ol").first();
 
@@ -68,7 +72,7 @@ var dic = function () {
         }
         else{
 
-            $(".definition").after().html("<p><span>"+$("#term").val()+"</span> not found</p>")
+            $(".definition").after().html("<p>Sorry, The term <span>"+$("#term").val()+"</span> is not found</p>")
 
         }
 

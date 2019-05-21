@@ -1,3 +1,39 @@
+.heading {
+    font-size: 32pt;
+    margin: auto;
+    text-align: center;
+
+}
+.heading span {
+    background-color: lightgray;
+}
+
+.form-group{
+    margin: auto;
+    text-align: center;
+}
+
+
+.loading{
+    margin: auto;
+    text-align: center;
+}
+
+.definition{
+    margin: 0 auto;
+    width: 90%;
+    /*border: solid 3pt gray;
+    border-radius: 5pt;
+    */
+    padding: 5px;
+}
+
+.definition span{
+    color: blue;
+    font-size: 14pt;
+}
+
+
 
 .validator {
     position: fixed;

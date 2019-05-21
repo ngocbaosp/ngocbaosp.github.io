@@ -2,31 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee497c55-0d7d-47eb-ad3f-4b6a7ad20e67" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/MUMDictionary/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MUMDictionary/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MUMDictionary/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MUMDictionary/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyDictionary/.idea/artifacts/MyDictionary_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyDictionary/.idea/libraries/gson_2_8_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyDictionary/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyDictionary/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyDictionary/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyDictionary/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyDictionary/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyDictionary/src/db/DbConnection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyDictionary/src/model/DefinitionList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyDictionary/src/model/WordDefinition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyDictionary/src/servlet/dictServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyDictionary/web/WEB-INF/lib/gson-2.8.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyDictionary/web/WEB-INF/lib/mysql-connector-java-8.0.16.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyDictionary/web/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyDictionary/web/css/dict.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyDictionary/web/dict.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyDictionary/web/images/loading.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyDictionary/web/images/loading.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyDictionary/web/js/dict.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyDictionary/web/js/jquery.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyDictionary/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MyDictionary/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyDictionary/web/css/dict.css" beforeDir="false" afterPath="$PROJECT_DIR$/MyDictionary/web/css/dict.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyDictionary/web/dict.html" beforeDir="false" afterPath="$PROJECT_DIR$/MyDictionary/web/dict.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyDictionary/web/js/dict.js" beforeDir="false" afterPath="$PROJECT_DIR$/MyDictionary/web/js/dict.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,24 +19,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="32" column="148" selection-start-line="32" selection-start-column="148" selection-end-line="32" selection-end-column="148" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JSPQuizServlet/web/WEB-INF/web.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" selection-start-line="6" selection-start-column="3" selection-end-line="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/JSPQuizServlet/web/index.jsp">
           <provider selected="true" editor-type-id="text-editor">
@@ -90,7 +51,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/movie.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="235">
@@ -100,19 +61,37 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/recipe.css">
+        <entry file="file://$PROJECT_DIR$/JavaScriptLabs/html/HW8/ascii.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="945">
-              <caret line="63" selection-start-line="63" selection-end-line="67" selection-end-column="1" />
+            <state relative-caret-position="45">
+              <caret line="3" column="26" lean-forward="true" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JavaScriptLabs/css/ascii.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="15" lean-forward="true" selection-start-line="15" selection-start-column="4" selection-end-line="16" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/recipe.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="848">
+              <caret line="63" selection-start-line="63" selection-end-line="67" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pie.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="445">
-              <caret line="123" column="10" selection-start-line="117" selection-end-line="126" selection-end-column="6" />
+            <state relative-caret-position="235">
+              <caret line="109" lean-forward="true" selection-start-line="109" selection-end-line="109" />
             </state>
           </provider>
         </entry>
@@ -202,6 +181,37 @@
               <item name="github" type="462c0819:PsiDirectoryNode" />
               <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="github" type="b2602c69:ProjectViewProjectNode" />
+              <item name="github" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaScriptLabs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="github" type="b2602c69:ProjectViewProjectNode" />
+              <item name="github" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaScriptLabs" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="github" type="b2602c69:ProjectViewProjectNode" />
+              <item name="github" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaScriptLabs" type="462c0819:PsiDirectoryNode" />
+              <item name="html" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="github" type="b2602c69:ProjectViewProjectNode" />
+              <item name="github" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaScriptLabs" type="462c0819:PsiDirectoryNode" />
+              <item name="html" type="462c0819:PsiDirectoryNode" />
+              <item name="HW8" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="github" type="b2602c69:ProjectViewProjectNode" />
+              <item name="github" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaScriptLabs" type="462c0819:PsiDirectoryNode" />
+              <item name="html" type="462c0819:PsiDirectoryNode" />
+              <item name="HW9" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -280,7 +290,7 @@
       <workItem from="1557964038329" duration="988000" />
       <workItem from="1558060672587" duration="2004000" />
       <workItem from="1558207364307" duration="3619000" />
-      <workItem from="1558403011523" duration="570000" />
+      <workItem from="1558403011523" duration="1947000" />
     </task>
     <task id="LOCAL-00030" summary="homework2">
       <created>1556770397317</created>
@@ -629,7 +639,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="76311000" />
+    <option name="totallyTimeSpent" value="77688000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1440" y="0" width="1366" height="768" extended-state="6" />
@@ -892,24 +902,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/recipe.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="945">
-          <caret line="63" selection-start-line="63" selection-end-line="67" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/QuizServlet/web/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pie.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="445">
-          <caret line="123" column="10" selection-start-line="117" selection-end-line="126" selection-end-column="6" />
         </state>
       </provider>
     </entry>
@@ -927,6 +923,34 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="235">
           <caret line="137" column="10" selection-start-line="137" selection-start-column="1" selection-end-line="137" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScriptLabs/html/HW8/ascii.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="26" lean-forward="true" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScriptLabs/css/ascii.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="15" lean-forward="true" selection-start-line="15" selection-start-column="4" selection-end-line="16" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/recipe.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="848">
+          <caret line="63" selection-start-line="63" selection-end-line="67" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pie.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="109" lean-forward="true" selection-start-line="109" selection-end-line="109" />
         </state>
       </provider>
     </entry>
