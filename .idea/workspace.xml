@@ -4,8 +4,7 @@
     <list default="true" id="ee497c55-0d7d-47eb-ad3f-4b6a7ad20e67" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/MyDictionary/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MyDictionary/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MyDictionary/web/css/dict.css" beforeDir="false" afterPath="$PROJECT_DIR$/MyDictionary/web/css/dict.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyDictionary/web/dict.html" beforeDir="false" afterPath="$PROJECT_DIR$/MyDictionary/web/dict.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyDictionary/web/js/dict.js" beforeDir="false" afterPath="$PROJECT_DIR$/MyDictionary/web/js/dict.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,11 +18,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JSPQuizServlet/web/index.jsp">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="570">
-              <caret line="38" column="7" selection-start-line="15" selection-start-column="6" selection-end-line="38" selection-end-column="7" />
+            <state relative-caret-position="185">
+              <caret line="21" column="125" selection-start-line="21" selection-start-column="125" selection-end-line="21" selection-end-column="125" />
             </state>
           </provider>
         </entry>
@@ -87,7 +86,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pie.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="235">
@@ -290,7 +289,7 @@
       <workItem from="1557964038329" duration="988000" />
       <workItem from="1558060672587" duration="2004000" />
       <workItem from="1558207364307" duration="3619000" />
-      <workItem from="1558403011523" duration="1947000" />
+      <workItem from="1558403011523" duration="2251000" />
     </task>
     <task id="LOCAL-00030" summary="homework2">
       <created>1556770397317</created>
@@ -639,7 +638,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="77688000" />
+    <option name="totallyTimeSpent" value="77992000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1440" y="0" width="1366" height="768" extended-state="6" />
@@ -871,13 +870,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" column="148" selection-start-line="32" selection-start-column="148" selection-end-line="32" selection-end-column="148" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/JSPQuizServlet/web/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -899,13 +891,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/QuizServlet/web/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
         </state>
       </provider>
     </entry>
@@ -951,6 +936,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="235">
           <caret line="109" lean-forward="true" selection-start-line="109" selection-end-line="109" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QuizServlet/web/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="21" column="125" selection-start-line="21" selection-start-column="125" selection-end-line="21" selection-end-column="125" />
         </state>
       </provider>
     </entry>

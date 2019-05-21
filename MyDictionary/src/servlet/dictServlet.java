@@ -33,11 +33,7 @@ public class dictServlet extends HttpServlet {
         response.setCharacterEncoding("UTF-8");
         out.print(jsonString);
         out.flush();
-/*
-        PrintWriter out = response.getWriter();
-        out.println("<html><body><b>Successfully Inserted: " + word + " " + jsonString
-                + "</b></body></html>");
-*/
+
     }
 
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
