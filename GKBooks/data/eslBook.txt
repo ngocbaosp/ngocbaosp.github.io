@@ -1,0 +1,30 @@
+Ok, đồng ý
+okay, đồng ý
+yes, có
+no, không
+thanks, cảm ơn
+thank you, cảm ơn
+please, vui lòng
+no thanks, không cảm ơn
+no thank you, không cảm ơn
+Hi, xin chào
+Hello, xin chào
+My name is.., tên của tôi là
+What is your name ?, Bạn tên gì ?
+What's your name ? , Bạn tên gì ?
+I am, Tôi là
+I'm, Tôi là
+Past, quá khứ
+Present, hiện tại
+Future, tương lai
+Now, bây giờ
+And, và
+But, nhưng
+Or, hoặc
+Both, cả hai
+After, sau; đằng sau; sau khi
+Before, trước
+Here, ở đây
+There, ở đó
+
+

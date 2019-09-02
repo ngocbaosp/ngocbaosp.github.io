@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>attributeEquals demo</title>
+    <script src="../js/jQuery/jquery-3.4.1.js"></script>
+
+</head>
+<body>
+
+<div>
+    <label>
+        <input type="radio" name="newsletter" value="Hot Fuzz">
+        <span>name?</span>
+    </label>
+</div>
+<div>
+    <label>
+        <input type="radio" name="newsletter" value="Cold Fusion">
+        <span>value?</span>
+    </label>
+</div>
+<div>
+    <label>
+        <input type="radio" name="newsletter" value="Evil Plans">
+        <span>value?</span>
+    </label>
+</div>
+
+<script>
+    $(document).ready(function () {
+
+        alert($("input[value='Hot Fuzz']" ).next().text());
+
+        $("input[value='Hot Fuzz']" ).next().text("Hot Fuzz");
+        $("[name='newsletter']" ).last().next().text("Hot Fuzz");
+
+    });
+
+</script>
+
+</body>
+</html>

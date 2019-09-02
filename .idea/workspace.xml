@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee497c55-0d7d-47eb-ad3f-4b6a7ad20e67" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MyDictionary/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MyDictionary/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyDictionary/web/css/dict.css" beforeDir="false" afterPath="$PROJECT_DIR$/MyDictionary/web/css/dict.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -158,10 +157,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
-    <option name="x" value="1440" />
-    <option name="width" value="1366" />
-    <option name="height" value="768" />
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -224,7 +222,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/documents" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/GKBooks" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -289,14 +287,7 @@
       <workItem from="1557964038329" duration="988000" />
       <workItem from="1558060672587" duration="2004000" />
       <workItem from="1558207364307" duration="3619000" />
-      <workItem from="1558403011523" duration="2251000" />
-    </task>
-    <task id="LOCAL-00030" summary="homework2">
-      <created>1556770397317</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1556770397317</updated>
+      <workItem from="1558403011523" duration="2605000" />
     </task>
     <task id="LOCAL-00031" summary="homework2">
       <created>1556770873233</created>
@@ -634,17 +625,24 @@
       <option name="project" value="LOCAL" />
       <updated>1558369834307</updated>
     </task>
-    <option name="localTasksCounter" value="79" />
+    <task id="LOCAL-00079" summary="MyDictionary">
+      <created>1558412988225</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1558412988227</updated>
+    </task>
+    <option name="localTasksCounter" value="80" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="77992000" />
+    <option name="totallyTimeSpent" value="78346000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1440" y="0" width="1366" height="768" extended-state="6" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30060422" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2846924" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -659,7 +657,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" />
-      <window_info anchor="bottom" id="Version Control" order="8" visible="true" weight="0.247851" />
+      <window_info anchor="bottom" id="Version Control" order="8" visible="true" weight="0.20843373" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
@@ -739,7 +737,8 @@
     <MESSAGE value="The Amazing Mouse Maze!" />
     <MESSAGE value="jQuery Quiz I" />
     <MESSAGE value="Fifteen Puzzle" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fifteen Puzzle" />
+    <MESSAGE value="MyDictionary" />
+    <option name="LAST_COMMIT_MESSAGE" value="MyDictionary" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/styleme.css" />
