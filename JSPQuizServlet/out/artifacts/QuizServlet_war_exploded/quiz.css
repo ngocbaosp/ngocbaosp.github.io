@@ -1,0 +1,23 @@
+
+.form-group {
+
+    margin-bottom: 5px;
+}
+
+.field-label {
+    width: 100px;
+    display:inline-block;
+    font-weight: bold;
+}
+
+.error-warning {
+    color: red;
+}
+
+.final-grade {
+    color: red;
+}
+
+.highlight {
+    color: blue;
+}

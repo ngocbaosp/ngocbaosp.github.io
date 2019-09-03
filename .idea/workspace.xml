@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ee497c55-0d7d-47eb-ad3f-4b6a7ad20e67" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/GKBooks/data/ESL_vi/audio/Now.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/GKBooks/data/ESL_vi/audio/Now.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GKBooks/data/ESL_vi/audio/no thank you.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/GKBooks/data/ESL_vi/audio/no thank you.mp3" afterDir="false" />
-    </list>
+    <list default="true" id="ee497c55-0d7d-47eb-ad3f-4b6a7ad20e67" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -190,14 +187,6 @@
               <item name="github" type="b2602c69:ProjectViewProjectNode" />
               <item name="github" type="462c0819:PsiDirectoryNode" />
               <item name="GKBooks" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
-              <item name="ESL_vi" type="462c0819:PsiDirectoryNode" />
-              <item name="audio" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="github" type="b2602c69:ProjectViewProjectNode" />
-              <item name="github" type="462c0819:PsiDirectoryNode" />
-              <item name="GKBooks" type="462c0819:PsiDirectoryNode" />
               <item name="html" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -213,7 +202,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/GKBooks/data" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/GKBooks/data/ESL_vi" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -289,14 +278,7 @@
       <workItem from="1558060672587" duration="2004000" />
       <workItem from="1558207364307" duration="3619000" />
       <workItem from="1558403011523" duration="2605000" />
-      <workItem from="1567449273910" duration="1639000" />
-    </task>
-    <task id="LOCAL-00036" summary="homework2">
-      <created>1556848067348</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1556848067348</updated>
+      <workItem from="1567449273910" duration="1868000" />
     </task>
     <task id="LOCAL-00037" summary="homework2">
       <created>1556848150793</created>
@@ -634,11 +616,18 @@
       <option name="project" value="LOCAL" />
       <updated>1567477613025</updated>
     </task>
-    <option name="localTasksCounter" value="85" />
+    <task id="LOCAL-00085" summary="GK Books">
+      <created>1567477956186</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1567477956187</updated>
+    </task>
+    <option name="localTasksCounter" value="86" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="79985000" />
+    <option name="totallyTimeSpent" value="80214000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
